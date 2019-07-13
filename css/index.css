@@ -367,6 +367,11 @@ footer nav a {
 
 /* Contact Form */
 
+.contact-form h1 {
+  text-align: center;
+  font-size: 2em;
+}
+
 .contact-form label {
   display: block;
   margin-bottom: 5px;
